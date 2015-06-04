@@ -1,0 +1,19 @@
+<configuration>
+  <imports>
+    <imports>
+      <import>
+        <type>java.lang.Number</type>
+      </import>
+      <import>
+        <type>com.agilerules.ecommerce.agilekart.Product</type>
+      </import>
+      <import>
+        <type>com.agilerules.ecommerce.agilekart.UpSellProduct</type>
+      </import>
+      <import>
+        <type>com.agilerules.ecommerce.agilekart.CrossSellProduct</type>
+      </import>
+    </imports>
+  </imports>
+  <version>1.0</version>
+</configuration>
